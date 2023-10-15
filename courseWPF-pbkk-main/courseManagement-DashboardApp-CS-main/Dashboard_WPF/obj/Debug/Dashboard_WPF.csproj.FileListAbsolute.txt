@@ -1,0 +1,88 @@
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\bin\Debug\Dashboard_WPF.exe.config
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\bin\Debug\Dashboard_WPF.exe
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\bin\Debug\Dashboard_WPF.pdb
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\obj\Debug\App.g.cs
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF_MarkupCompile.cache
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF_MarkupCompile.lref
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\obj\Debug\App.baml
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\obj\Debug\MainWindow.baml
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.g.resources
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.Properties.Resources.resources
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.CopyComplete
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.exe
+C:\Users\Home\source\repos\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.pdb
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\bin\Debug\Dashboard_WPF.exe.config
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\bin\Debug\Dashboard_WPF.exe
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\bin\Debug\Dashboard_WPF.pdb
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.AssemblyReference.cache
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\obj\Debug\App.g.cs
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF_MarkupCompile.cache
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF_MarkupCompile.lref
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\obj\Debug\App.baml
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\obj\Debug\MainWindow.baml
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.g.resources
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.Properties.Resources.resources
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.GenerateResource.cache
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.CoreCompileInputs.cache
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.CopyComplete
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.exe
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.pdb
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\bin\Debug\Dashboard_WPF.exe.config
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\bin\Debug\Dashboard_WPF.exe
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\bin\Debug\Dashboard_WPF.pdb
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.AssemblyReference.cache
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\obj\Debug\App.g.cs
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF_MarkupCompile.cache
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF_MarkupCompile.lref
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\obj\Debug\App.baml
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\obj\Debug\MainWindow.baml
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.g.resources
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.Properties.Resources.resources
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.GenerateResource.cache
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.CoreCompileInputs.cache
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.CopyComplete
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.exe
+C:\Users\RAFI ALIEFIAN\OneDrive\Documents\SEM 5\PBKK\LearnManagement-Dashboard-WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.pdb
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\bin\Debug\Dashboard_WPF.exe.config
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\bin\Debug\Dashboard_WPF.exe
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\bin\Debug\Dashboard_WPF.pdb
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\bin\Debug\MaterialDesignColors.dll
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\bin\Debug\MaterialDesignColors.pdb
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.AssemblyReference.cache
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\obj\Debug\MainWindow.g.cs
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\obj\Debug\App.g.cs
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\obj\Debug\Dashboard_WPF_MarkupCompile.cache
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\obj\Debug\Dashboard_WPF_MarkupCompile.lref
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\obj\Debug\App.baml
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\obj\Debug\MainWindow.baml
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\obj\Debug\Dashboard_WPF.g.resources
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\obj\Debug\Dashboard_WPF.Properties.Resources.resources
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.GenerateResource.cache
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.CoreCompileInputs.cache
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.CopyComplete
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\obj\Debug\Dashboard_WPF.exe
+D:\.SEMESTER 3\courseManagement-DashboardApp-CS-main\courseManagement-DashboardApp-CS-main\Dashboard_WPF\obj\Debug\Dashboard_WPF.pdb
