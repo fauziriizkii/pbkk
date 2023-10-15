@@ -2,9 +2,6 @@
 
 Created with `Visual Studio 2022` & Windows Presentation Fundation / WPF (#C) Templates
 
-- User Interface :
-
-![UI-CM](imgREADME/UI%20-%20CM%20Dashboard%20WPF.png)
 
 - Project Demonstration (In *Bahasa*) :
 
